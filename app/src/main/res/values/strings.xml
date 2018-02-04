@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">TIS</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="home">Home</string>
+    <string name="about_tis">About TIS</string>
+    <string name="admission">Admission</string>
+    <string name="elementary">Elementary</string>
+    <string name="secondary">Secondary</string>
+    <string name="student_activities">Student Activities</string>
+    <string name="support_service">Support Service</string>
+    <string name="information">Information</string>
+    <string name="primary_year_programm">Primary years programme</string>
+    <string name="single_subjects">Single subjects</string>
+    <string name="parent_resources">Parent resources</string>
+    <string name="departments">Departments</string>
+    <string name="tashkent_international_school">Tashkent International School</string>
+    <string name="search">search</string>
+    <string name="calendar">Calendar</string>
+    <string name="morning_news">Announcement</string>
+    <string name="weekly_news">TIS News</string>
+    <string name="lunch_menu">Lunch menu</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="login">Login</string>
+    <string name="skip">Skip</string>
+    <string name="contact">Contact</string>
+
+
+</resources>

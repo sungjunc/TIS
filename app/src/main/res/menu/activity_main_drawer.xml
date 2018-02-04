@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group>
+
+        <item
+            android:id="@+id/nav_about_tis"
+            android:icon="@drawable/b"
+            android:title="@string/about_tis" />
+        <item
+            android:id="@+id/nav_admission"
+            android:icon="@drawable/e"
+            android:title="@string/admission" />
+
+        <item
+            android:id="@+id/nav_elementary"
+            android:icon="@drawable/a"
+            android:title="@string/elementary" />
+        <item
+            android:id="@+id/nav_secondary"
+            android:icon="@drawable/h"
+            android:title="@string/secondary" />
+
+        <item
+            android:id="@+id/nav_student_activity"
+            android:icon="@drawable/d"
+            android:title="@string/student_activities" />
+
+        <item
+            android:id="@+id/nav_support_service"
+            android:icon="@drawable/c"
+            android:title="@string/support_service" />
+
+
+        <item
+            android:id="@+id/nav_information"
+            android:icon="@drawable/iii"
+            android:title="@string/information" />
+
+
+        <item
+            android:id="@+id/nav_calendar"
+            android:icon="@drawable/f"
+            android:title="School Calendar" />
+
+        <item
+            android:id="@+id/nav_weekly_news"
+            android:icon="@drawable/m"
+            android:title="TIS News" />
+
+
+        <item
+            android:id="@+id/nav_lunch_menu"
+            android:icon="@drawable/g"
+            android:title="@string/lunch_menu" />
+
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/tel"
+            android:title="@string/contact" />
+
+        <item
+            android:id="@+id/nav_morning_news"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginEnd="26dp"
+            android:layout_marginTop="200dp"
+            android:icon="@drawable/s"
+            android:title="Announcement" />
+    </group>
+
+</menu>

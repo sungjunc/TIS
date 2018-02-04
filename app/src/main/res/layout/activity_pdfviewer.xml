@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="uz.inha.tis.PDFViewerActivity">
+
+
+    <android.support.v7.widget.Toolbar
+        android:id="@+id/activity_pdf_toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/colorPrimary"
+        app:theme="@style/AppTheme.CustomToolbar"
+        app:titleTextColor="@android:color/white" />
+
+
+    <com.joanzapata.pdfview.PDFView
+        android:id="@+id/activity_pdfviewer_pdf"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/activity_pdf_toolbar" />
+
+
+</RelativeLayout>

@@ -1,0 +1,397 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--About TIS menu-->
+    <string-array name="about_tis">
+        <item>Director\'s welcome</item>
+        <item>About the school</item>
+        <item>Faculty and Staff</item>
+        <item>School board</item>
+        <item>Parent teacher organization</item>
+        <item>Employment opportunities</item>
+        <item>Child protection</item>
+    </string-array>
+
+    <string-array name="about_tis_url">
+        <item>http://www.pictureofadad.com/directors_welcome/</item>
+        <item>http://www.pictureofadad.com/about-the-school/</item>
+        <item>http://www.pictureofadad.com/staff-leadership/</item>
+        <item>http://www.pictureofadad.com/school-board/</item>
+        <item>http://www.pictureofadad.com/pto/</item>
+        <item>http://www.pictureofadad.com/employment/</item>
+        <item>http://www.pictureofadad.com/child-protection/</item>
+    </string-array>
+
+    <integer-array name="about_tis_has_menu">
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+    </integer-array>
+
+    <integer-array name="about_tis_id">
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+    </integer-array>
+
+    <!--Admission menu-->
+
+    <string-array name="admission">
+        <item>Admission procedure</item>
+        <item>Fees</item>
+        <item>Exchange program</item>
+        <item>Scholarship 2017–2018</item>
+        <item>Admission FAQs</item>
+    </string-array>
+
+    <string-array name="admission_url">
+        <item>http://www.pictureofadad.com/admission-procedure/</item>
+        <item>http://www.pictureofadad.com/fees/</item>
+        <item>http://www.pictureofadad.com/exchange-program/</item>
+        <item>http://www.pictureofadad.com/scholarship/</item>
+        <item>http://www.pictureofadad.com/admission-faq/</item>
+    </string-array>
+
+    <integer-array name="admission_has_menu">
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+    </integer-array>
+
+    <integer-array name="admission_id">
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+    </integer-array>
+
+    <!--Elementary menu-->
+
+    <string-array name="elementary">
+        <item>Elementary Principal’s Welcome</item>
+        <item>Primary years program</item>
+        <item>Early Learning Center</item>
+        <item>Single subjects</item>
+        <item>Elementary library</item>
+        <item>Elementary technology</item>
+        <item>Parent Resources</item>
+        <item>Teacher blogs</item>
+    </string-array>
+
+
+    <string-array name="elementary_url">
+        <item>http://www.pictureofadad.com/elementary_principal_welcome/</item>
+        <item>http://www.pictureofadad.com/primary-years-program/</item>
+        <item>http://www.pictureofadad.com/early-learning-center/</item>
+        <item>http://www.pictureofadad.com/single-subjects/</item>
+        <item>http://tashschool.libguides.com/c.php?g=611093</item>
+        <item>http://tisestech.weebly.com/</item>
+        <item>http://www.pictureofadad.com/parent-resources/</item>
+        <item>http://www.pictureofadad.com/teacher-blogs/</item>
+    </string-array>
+
+    <integer-array name="elementary_has_menu">
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+    </integer-array>
+
+
+    <integer-array name="elementary_id">
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+    </integer-array>
+
+    <!--Seconday menu-->
+
+    <string-array name="secondary">
+        <item>Secondary Principal’s Welcome</item>
+        <item>Middle years programme</item>
+        <item>Diploma programme</item>
+        <item>Departments</item>
+        <item>College counseling</item>
+        <item>Secondary library</item>
+        <item>Parent resources</item>
+    </string-array>
+
+
+    <string-array name="secondary_url">
+        <item>http://www.pictureofadad.com/secondary_principal_welcome/</item>
+        <item>http://hughesmath201718.blogspot.co.uk/</item>
+        <item>http://www.pictureofadad.com/diploma-program/</item>
+        <item>http://www.pictureofadad.com/departments/</item>
+        <item>http://www.pictureofadad.com/college-counseling/</item>
+        <item>http://tashschool.libguides.com/content.php?pid=244945</item>
+        <item>http://www.pictureofadad.com/parent-resources/</item>
+    </string-array>
+
+    <integer-array name="secondary_has_menu">
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+    </integer-array>
+
+    <integer-array name="secondary_id">
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+    </integer-array>
+
+    <!--Student Activity menu-->
+
+    <string-array name="student_activity">
+        <item>Elementary After-School Activities</item>
+        <item>Elementary Student Leadership</item>
+        <item>Secondary After-School Activities</item>
+        <item>Secondary Student Councils</item>
+        <item>Athletics</item>
+    </string-array>
+
+    <string-array name="student_activity_url">
+        <item>http://www.pictureofadad.com/elementary_activities/</item>
+        <item>http://www.pictureofadad.com/elementary_student_leadership/</item>
+        <item>http://www.pictureofadad.com/secondary-activities/</item>
+        <item>http://www.pictureofadad.com/secondary-student-council/</item>
+        <item>http://www.pictureofadad.com/athletics/</item>
+    </string-array>
+
+    <integer-array name="student_activity_has_menu">
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+    </integer-array>
+
+    <integer-array name="student_activity_id">
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+    </integer-array>
+
+    <!--Support Service menu-->
+
+    <string-array name="support_service">
+        <item>Counseling</item>
+        <item>Learning Support</item>
+        <item>International Clinic</item>
+    </string-array>
+
+    <string-array name="support_service_url">
+        <item>http://www.pictureofadad.com/counseling/</item>
+        <item>http://www.pictureofadad.com/learning-support/</item>
+        <item>http://tashclinic.org/</item>
+    </string-array>
+
+    <integer-array name="support_service_has_menu">
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+    </integer-array>
+
+    <integer-array name="support_service_id">
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+    </integer-array>
+
+    <!--Information menu-->
+
+    <string-array name="information">
+        <item>Life in Tashkent</item>
+        <item>About Uzbekistan</item>
+        <item>TOEFL Registration</item>
+        <item>Emergency Manual</item>
+    </string-array>
+
+
+    <string-array name="information_url">
+        <item>http://www.pictureofadad.com/about-tashkent/</item>
+        <item>http://www.pictureofadad.com/about-uzbekistan/</item>
+        <item>http://www.ets.org/toefl/ibt/register/</item>
+        <item>http://www.pictureofadad.com/emergency-manual/</item>
+    </string-array>
+
+    <integer-array name="information_has_menu">
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+    </integer-array>
+
+    <integer-array name="information_id">
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+    </integer-array>
+
+
+
+    <!--Primary Year Program menu-->
+
+    <string-array name="primary_year_program">
+        <item>PYP</item>
+        <item>Assessment</item>
+    </string-array>
+
+    <string-array name="primary_year_program_url">
+        <item>http://tashschool.org/elementary-school/pyp/</item>
+        <item>http://tashschool.org/elementary-school/assessment-2/</item>
+    </string-array>
+
+
+    <integer-array name="primary_year_program_has_menu">
+        <item>0</item>
+        <item>0</item>
+    </integer-array>
+
+    <integer-array name="primary_year_program_id">
+        <item>0</item>
+        <item>0</item>
+    </integer-array>
+
+
+    <!--Single Subjects menu-->
+
+    <string-array name="single_subjects">
+        <item>The Arts</item>
+        <item>Physical Education</item>
+        <item>Information Technology</item>
+        <item>Russian Language</item>
+        <item>English Language Learner</item>
+        <item>Library Media Center</item>
+    </string-array>
+
+    <string-array name="single_subjects_url">
+        <item>http://tashschool.org/elementary-school/single-subjects/the-arts/</item>
+        <item>http://tashschool.org/elementary-school/single-subjects/physical-education/</item>
+        <item>http://tashschool.org/elementary-school/single-subjects/ict/</item>
+        <item>http://tashschool.org/elementary-school/single-subjects/russian-language/</item>
+        <item>http://tashschool.org/elementary-school/single-subjects/english-language-learner/</item>
+        <item>http://tashschool.org/elementary-school/single-subjects/library-media-center/</item>
+    </string-array>
+
+    <integer-array name="single_subjects_has_menu">
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+    </integer-array>
+
+    <integer-array name="single_subjects_id">
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+    </integer-array>
+
+    <!--Parent Resources-->
+
+    <string-array name="parent_resources">
+        <item>Elementary handbook</item>
+        <item>Parent Resources</item>
+    </string-array>
+
+
+    <string-array name="parent_resources_url">
+        <item>http://tashschool.org/wp-content/uploads/2017/08/Elementary-Parent-Handbook-2017-2018.pdf</item>
+        <item>http://tashschool.org/parent-resources/</item>
+    </string-array>
+
+    <integer-array name="parent_resources_has_menu">
+        <item>0</item>
+        <item>0</item>
+    </integer-array>
+
+    <integer-array name="parent_resources_id">
+        <item>0</item>
+        <item>0</item>
+    </integer-array>
+
+    <!--Departments menu-->
+
+    <string-array name="departments">
+        <item>Arts</item>
+        <item>Design</item>
+        <item>English</item>
+        <item>English Language Learning</item>
+        <item>Individuals and Societies</item>
+        <item>Languages</item>
+        <item>Mathematics</item>
+        <item>Physical and Health Education</item>
+        <item>Sciences</item>
+    </string-array>
+
+    <string-array name="departments_url">
+        <item>http://tashschool.org/arts/</item>
+        <item>http://tashschool.org/design/</item>
+        <item>http://tashschool.org/english/</item>
+        <item>http://tashschool.org/english-language-learning/</item>
+        <item>http://tashschool.org/individuals-and-societies/</item>
+        <item>http://tashschool.org/languages/</item>
+        <item>http://tashschool.org/mathematics/</item>
+        <item>http://tashschool.org/physical-and-health-education/</item>
+        <item>http://tashschool.org/sciences/</item>
+    </string-array>
+
+    <integer-array name="departments_has_menu">
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+    </integer-array>
+
+
+    <integer-array name="departments_id">
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+    </integer-array>
+</resources>
