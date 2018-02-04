@@ -34,6 +34,9 @@ public class CarouselAdapter extends PagerAdapter {
     }
 
 
+
+
+
     @Override
     public Object instantiateItem(ViewGroup container, int position) {
         LayoutInflater inflater = (LayoutInflater) container.getContext().getSystemService(Context.LAYOUT_INFLATER_SERVICE);
@@ -63,6 +66,8 @@ public class CarouselAdapter extends PagerAdapter {
     }
 
     public View getTabView(int position) {
+
+
         View view = LayoutInflater.from(context).inflate(R.layout.tab_layout_item_view, null);
         return view;
     }
